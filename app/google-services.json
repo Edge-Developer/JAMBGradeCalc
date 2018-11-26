@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1009352223244",
+    "firebase_url": "https://jambgradecalc.firebaseio.com",
+    "project_id": "jambgradecalc",
+    "storage_bucket": "jambgradecalc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009352223244:android:6cb0129e63a1fbde",
+        "android_client_info": {
+          "package_name": "io.edgedev.jamb_grade_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009352223244-i0a0ea9611i9dobuoinn95u2sq9ttgrl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.edgedev.jamb_grade_calculator",
+            "certificate_hash": "0ec0f0cfc9f9f2c17ecf10cee378c4c41483e5c8"
+          }
+        },
+        {
+          "client_id": "1009352223244-vfhfcgf0hki1pkvjfv3lmhhceasfespa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD_-Tmf68OLAwZuCfyhXTP-r-aQV-F--Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009352223244-vfhfcgf0hki1pkvjfv3lmhhceasfespa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

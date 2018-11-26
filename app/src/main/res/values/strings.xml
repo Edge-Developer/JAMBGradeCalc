@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JAMB Grade Calculator</string>
+    <string name="banner_ad_unit_id" translatable="false"> ca-app-pub-9297690518647609/4070406578</string>
+    <string-array name="grades">
+        <item>A1</item>
+        <item>B2</item>
+        <item>B3</item>
+        <item>C4</item>
+        <item>C5</item>
+        <item>C6</item>
+    </string-array>
+</resources>
